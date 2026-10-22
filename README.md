@@ -1,0 +1,1 @@
+# VT_download_guard_extension
