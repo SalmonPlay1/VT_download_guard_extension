@@ -1,4 +1,4 @@
-&lt;div align=&quot;center&quot;&gt;
+
 
 # 🛡️ VT Download Guard v1.3 — Защита загрузок
 
